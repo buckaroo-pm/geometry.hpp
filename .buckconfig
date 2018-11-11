@@ -1,0 +1,3 @@
+[repositories]
+  buckaroo.github.buckaroo-pm.Catch2 = ./buckaroo-packages/github/buckaroo-pm/Catch2
+  buckaroo.github.buckaroo-pm.mapbox-variant = ./buckaroo-packages/github/buckaroo-pm/mapbox-variant

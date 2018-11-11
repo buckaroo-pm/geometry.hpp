@@ -1,0 +1,7 @@
+[[dependency]]
+package = "github.com/buckaroo-pm/Catch2"
+version = "1.12.1"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/mapbox-variant"
+version = "branch=master"

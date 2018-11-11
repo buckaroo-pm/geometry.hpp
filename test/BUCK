@@ -1,0 +1,10 @@
+cxx_binary(
+  name = 'test', 
+  srcs = glob([
+    '*.cpp', 
+  ]), 
+  deps = [
+    '//:geometry', 
+    'buckaroo.github.buckaroo-pm.Catch2//:catch', 
+  ], 
+)

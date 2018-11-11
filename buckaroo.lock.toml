@@ -1,0 +1,17 @@
+manifest = "a5c7b9e39bbc5eb251142b0e27f44b636c7052710b4c5becef97758f67c81865"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/Catch2"
+target = "//:catch"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/mapbox-variant"
+target = "//:variant"
+
+[[lock]]
+name = "github.com/buckaroo-pm/Catch2"
+revision = "65ab25beb9080c77a7aa0edbfab1812a06e174d1"
+
+[[lock]]
+name = "github.com/buckaroo-pm/mapbox-variant"
+revision = "e735b7c1be9fe58e364685e6093628644776baf3"

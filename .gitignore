@@ -3,3 +3,9 @@ cmake-build
 .toolchain
 .mason
 local.env
+cache
+.buckd
+buck-out
+buckaroo
+buckaroo-packages
+BUCKAROO_DEPS
